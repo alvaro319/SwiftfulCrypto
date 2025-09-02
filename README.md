@@ -2,7 +2,7 @@
 Live cryptocurrency data  
 Saving current user's portfolio  
 Searching, Filtering, Sorting, and Reloading data  
-Custom color theme and loading animations
+Custom color theme and loading animations (Animated line graphs)  
 
 ### Technical features:
 MVVM Architecture  
@@ -15,7 +15,6 @@ Codable (decoding JSON data)
 Multi-threading (using background threads)  
 Safe coding!!! ("if let" and "guard" statements to avoid crashes)  
 Extensions(Double, String, Date, Color, PreviewProvider)  
-Animated line graphs  
 Transitioning screens  
 Lazy loading  
 Sheets
