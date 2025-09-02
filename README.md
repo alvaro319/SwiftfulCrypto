@@ -7,7 +7,7 @@ Custom color theme and loading animations (Animated line graphs)
 ### Technical features:
 MVVM Architecture  
 Core Data (saving current user's portfolio)  
-FileManager (saving images)
+FileManager (saving images)  
 Combine (publishers/subscribers for several data services)  
 Multiple API calls  
 Codable (decoding JSON data)  
